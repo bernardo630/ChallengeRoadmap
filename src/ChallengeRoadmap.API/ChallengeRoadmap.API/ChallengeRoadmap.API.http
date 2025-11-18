@@ -1,0 +1,6 @@
+@ChallengeRoadmap.API_HostAddress = http://localhost:5069
+
+GET {{ChallengeRoadmap.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
